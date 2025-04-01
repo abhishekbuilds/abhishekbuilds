@@ -15,6 +15,7 @@ I’m a software engineer with 4+ years of experience building scalable, secure,
 
 <a href="https://www.github.com/abhishekbuilds" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/abhishekbuilds?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=abhishekbuilds)
 ### Skills
 
 <p align="left">
@@ -25,12 +26,13 @@ src="https://img.shields.io/github/followers/abhishekbuilds?logo=github&style=fo
 
 <p align="left"> <a href="https://www.github.com/abhishekbuilds" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/abhishekbuilds" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="http://www.medium.com/@iabhishekapp" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /> </picture> </a></p>
 
-<b>My GitHub Stats</b>
+
+### My GitHub Stats
 
 <a href="http://www.github.com/abhishekbuilds"><img src="https://github-readme-stats.vercel.app/api?username=abhishekbuilds&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="abhishekbuilds's GitHub stats" /></a>
 
 <a href="http://www.github.com/abhishekbuilds"><img src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekbuilds&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<b>Top Repositories</b>
+### Top Repositories
 
 <div width="100%" align="center"><a href="https://github.com/abhishekbuilds/linkedin-email-extractor" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=abhishekbuilds&repo=linkedin-email-extractor&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/abhishekbuilds/streamanalytics" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=abhishekbuilds&repo=streamanalytics&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br />
