@@ -6,7 +6,7 @@ Software Engineer | Backend • Full Stack • Cloud-Native
 
 I’m a software engineer with 4+ years of experience building scalable, secure, and cloud-native systems for Fortune 500 companies. From designing microservices and REST APIs in Spring Boot and Python to working with React frontends and deploying on AWS using CI/CD pipelines, I enjoy solving real-world problems with clean, efficient code. My work spans across backend engineering, frontend integration, cloud infrastructure, and modern DevOps practices.
 
-* 🌍  I'm based in Los Angeles, California
+* 🌍  I'm based in San Jose, California
 * 🖥️  See my portfolio at [AbhishekBuilds.com](http://abhishekbuilds.com/)
 * ✉️  You can contact me at [iabhishekapp@gmail.com](mailto:iabhishekapp@gmail.com)
 * 🚀  I'm currently working on [Suzess - Real-time Cross-platform Streaming Recommendations](http://suzess.app)
